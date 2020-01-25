@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="{{ 'codebrahs-logo--short.svg' | asset_url }}" itemprop="logo">
